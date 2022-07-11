@@ -256,6 +256,11 @@ rx:
 rare#
 
 
+The Debian host did not have internet access, probably because I did not use DHCP for the ONIE install. 
+Statically configured IP on the Debian host and install git. 
+then tna-? works
+
+
 
 
 
