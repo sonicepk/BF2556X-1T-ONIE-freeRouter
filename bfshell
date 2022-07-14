@@ -1,0 +1,64 @@
+bfshell> ucli
+Cannot read termcap database;
+using dumb terminal settings.
+bf-sde>
+
+.. to go back a dir
+
+bf-sde.bf_pltfm.qsfp> module-show 49
+Module memory dump, port 49
+Module type identifier         = QSFP28 (0x11)
+Number of lanes                = 4
+
+Vendor name                    = OEM
+Vendor P/N                     = 100G-QSFP-LR4-F
+Vendor rev                     = 01
+Vendor S/N                     = 2206060016
+Date & lot code                = 220607
+Vendor OUI                     = 00-00-00
+
+Memory map format              = SFF-8636
+Memory map spec rev            = 2.8, 2.9, and 2.10
+Flat/paged memory              = Paged
+
+Media type                     = ---
+Media side connector           = LC
+Max supported SMF fiber length = 10000 m
+
+
+## SUPPORTED SPECIFICATIONS
+-------------- Host interface --------------
+Standard supported                      Lns
+CAUI-4           4 x 25.78125Gbd NRZ    4
+25GAUI           1 x 25.78125Gbd NRZ    1
+
+bf-sde.bf_pltfm.qsfp>
+
+
+bf-sde.bf_pltfm.qsfp> info
+
+================
+Info for QSFP  :
+================
+---------------------------------------------------------------------------------------------------------------------
+                                                             Date     Nominal                 Power
+Port  Vendor           PN               rev Serial#          code     Bit Rate     OUI        Class            Media
+---------------------------------------------------------------------------------------------------------------------
+ 49:  01    2206060016       220607   OEM              100G-QSFP-LR4-F  25500 MBps   00:00:00   6 (4.5 W max.)   (SMF): 10 km
+ 50:  01    2206060015       220607   OEM              100G-QSFP-LR4-F  25500 MBps   00:00:00   6 (4.5 W max.)   (SMF): 10 km
+ 51:  01    2206060017       220607   OEM              100G-QSFP-LR4-F  25500 MBps   00:00:00   6 (4.5 W max.)   (SMF): 10 km
+ 52:  01    2206060018       220607   OEM              100G-QSFP-LR4-F  25500 MBps   00:00:00   6 (4.5 W max.)   (SMF): 10 km
+ 61:        A00046780        050622       0 MBps   00:30:d3                    (Copper): 100 m
+
+Local connections:
+
+================
+Info for CMIS:
+================
+---------------------------------------------------------------------------------------------------------------------
+                                                             Date     Nominal                 Power
+Port  Vendor           PN               rev Serial#          code     Bit Rate     OUI        Class            Media
+---------------------------------------------------------------------------------------------------------------------
+
+Local connections:
+bf-sde.bf_pltfm.qsfp>
