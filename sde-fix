@@ -3169,7 +3169,7 @@ Connected to 127.0.0.1.
 Escape character is '^]'.
 welcome
 line ready
-rare#show p4lang p4 port-names                                                 
+DUB0021#show p4lang p4 port-names                                                                                                                                      
 num  name
 0    frontpanel-1/0
 13   frontpanel-10/0
@@ -3197,16 +3197,63 @@ num  name
 161  frontpanel-30/0
 162  frontpanel-31/0
 163  frontpanel-32/0
+144  frontpanel-33/0
+145  frontpanel-34/0
+146  frontpanel-35/0
+147  frontpanel-36/0
+136  frontpanel-37/0
+137  frontpanel-38/0
+138  frontpanel-39/0
 3    frontpanel-4/0
+139  frontpanel-40/0
+128  frontpanel-41/0
+129  frontpanel-42/0
+130  frontpanel-43/0
+131  frontpanel-44/0
+132  frontpanel-45/0
+133  frontpanel-46/0
+134  frontpanel-47/0
+135  frontpanel-48/0
+156  frontpanel-49/0
+157  frontpanel-49/1
+158  frontpanel-49/2
+159  frontpanel-49/3
 4    frontpanel-5/0
+140  frontpanel-50/0
+141  frontpanel-50/1
+142  frontpanel-50/2
+143  frontpanel-50/3
+188  frontpanel-51/0
+189  frontpanel-51/1
+190  frontpanel-51/2
+191  frontpanel-51/3
+172  frontpanel-52/0
+173  frontpanel-52/1
+174  frontpanel-52/2
+175  frontpanel-52/3
+32   frontpanel-53/0
+33   frontpanel-53/1
+34   frontpanel-53/2
+35   frontpanel-53/3
+48   frontpanel-54/0
+49   frontpanel-54/1
+50   frontpanel-54/2
+51   frontpanel-54/3
+8    frontpanel-55/0
+9    frontpanel-55/1
+10   frontpanel-55/2
+11   frontpanel-55/3
+16   frontpanel-56/0
+17   frontpanel-56/1
+18   frontpanel-56/2
+19   frontpanel-56/3
+64   frontpanel-57/0
+65   frontpanel-57/1
+66   frontpanel-57/2
+67   frontpanel-57/3
 5    frontpanel-6/0
 6    frontpanel-7/0
 7    frontpanel-8/0
 12   frontpanel-9/0
 
-rare#                                                                          
-
-
-
-
-
+DUB0021#   
